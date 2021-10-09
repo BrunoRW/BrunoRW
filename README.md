@@ -23,7 +23,7 @@
 
 <div align='center' ><br>
   Banco de dados <br><br>
-  <img align="center" alt="Rafa-Js" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 <div align='center' ><br>
