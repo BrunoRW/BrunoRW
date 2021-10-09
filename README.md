@@ -4,7 +4,7 @@
 -- Faz 8 meses que comecei a programar. <br>
 -- Tenho projetos individuais e em grupo. <br>
 
--- Site de anime: <a target='__blank' href='https://animestk.com'>AnimesTK</a>
+-- Site de anime: <a href='https://animestk.com'>AnimesTK</a>
 
 <div align="center">
   <a href="https://github.com/BrunoRW">
