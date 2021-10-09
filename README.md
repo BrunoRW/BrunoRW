@@ -1,8 +1,8 @@
 ### Olá, me chamo Bruno Ricardo Wotzke!
 
--- Tenho 15 anos.
--- Faz 8 meses que comecei a programar.
--- Tenho projetos individuais e em grupo.
+-- Tenho 15 anos. <br>
+-- Faz 8 meses que comecei a programar. <br>
+-- Tenho projetos individuais e em grupo. <br>
 
 -- Site de anime: <a href='https://animestk.com'>AnimesTK</a>
 
