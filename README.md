@@ -47,6 +47,7 @@
 
 <br><br>
 
+Contatos <br><br>
 Email: brunoricardowotzke@gmail.com<br>
 Discord: bw#1675
 
