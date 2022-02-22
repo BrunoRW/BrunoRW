@@ -2,7 +2,7 @@
 
 -- Tenho 15 anos. <br> 
 -- Faz 12 meses que comecei a programar. <br> 
--- Tenho projetos individuais e em grupo. <br> 
+-- Tenho projetos individuais e em grupos. <br> 
  
 <div align="center">
   <a href="https://github.com/BrunoRW">
