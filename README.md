@@ -1,8 +1,8 @@
 ### Olá, me chamo Bruno Ricardo Wotzke!
 
--- Tenho 15 anos. <br> 
--- Faz 12 meses que comecei a programar. <br> 
--- Tenho projetos individuais e em grupos. <br> 
+- I'm 15. <br> 
+- I started studying over 12 months ago. <br> 
+- I've individual and group projects. <br> 
  
 <div align="center">
   <a href="https://github.com/BrunoRW">
