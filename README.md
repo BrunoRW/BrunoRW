@@ -4,8 +4,6 @@
 -- Faz 12 meses que comecei a programar. <br> 
 -- Tenho projetos individuais e em grupo. <br> 
  
--- Site de anime: <a href='https://animestk.com'>AnimesTK</a>
- 
 <div align="center">
   <a href="https://github.com/BrunoRW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoRW&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
