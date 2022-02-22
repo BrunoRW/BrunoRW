@@ -13,7 +13,7 @@
 </div>
   
 <div align='center' ><br>
-  Linguagens utilizadas <br><br>  
+  Languages used <br><br>  
   <img align="center" height="30" title='HTML5' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" title='CSS3' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" title='JavaScript' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,12 +21,12 @@
 </div>
 
 <div align='center' ><br>
-  Banco de dados <br><br>
+  Database <br><br>
   <img align="center" title='MySQL' height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 <div align='center' ><br>
-  Querendo aprender <br><br>
+  I want to learn <br><br>
   <img align="center" title='Node' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title='React' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title='TypeScript' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
