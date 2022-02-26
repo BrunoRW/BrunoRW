@@ -13,9 +13,7 @@
 </div>
   
 <div align='center' ><br>
-  Languages used <br><br>  
-  <img align="center" height="30" title='HTML5' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" title='CSS3' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  Luages used <br><br>  
   <img align="center" height="30" title='JavaScript' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Csharp" title='PHP' height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
