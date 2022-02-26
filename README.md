@@ -1,4 +1,4 @@
-### Olá, me chamo Bruno Ricardo Wotzke!
+### Hey, i'm Bruno Ricardo Wotzke!
 
 - I'm 15. <br> 
 - I started studying over 12 months ago. <br> 
