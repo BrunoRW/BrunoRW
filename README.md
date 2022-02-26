@@ -13,7 +13,7 @@
 </div>
   
 <div align='center' ><br>
-  Luages used <br><br>  
+  Languages  used <br><br>  
   <img align="center" height="30" title='JavaScript' width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Csharp" title='PHP' height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
