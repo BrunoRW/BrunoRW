@@ -3,7 +3,7 @@
 - I'm 15. <br> 
 - I started studying over 12 months ago. <br> 
 - I've individual and group projects. <br> 
-- 💻 Dream jobs - cybersecurity or white hat.
+- 💻 Dream job - cybersecurity
  
 <div align="center">
   <a href="https://github.com/BrunoRW">
