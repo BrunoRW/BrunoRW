@@ -5,7 +5,7 @@
 - I've individual and group projects. <br> 
 - 💻 Dream jobs - FullStack developer and cybersecurity
  
-<div display="flex">
+<div align="center">
   <a href="https://github.com/BrunoRW">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=BrunoRW&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" Width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRW&layout=compact&langs_count=7&theme=react"/>
