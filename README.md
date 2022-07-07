@@ -32,6 +32,8 @@
 <div align='center' ><br>
   Database <br><br> -->
   <img align="center" title='MySQL' height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" title='Firebase' height="55" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+
 </div>
  
 <!-- <div align='center' ><br>
