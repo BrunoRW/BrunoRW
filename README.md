@@ -34,7 +34,7 @@
   Database <br><br> -->
   <img align="center" title='MySQL' height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" title='Firebase' height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" title='Firebase' height="30" width="40"src="https://img.icons8.com/color/344/nodejs.png" />
+  <img align="center" title='Firebase' height="30" width="40"src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 
 </div>
  
