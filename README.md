@@ -14,6 +14,8 @@
   
 <div style="display: flex;" align='center' ><br>
   Knowledge <br><br>  
+  <img align="center" title='Firebase' height="30" width="40"src="https://img.icons8.com/color/344/nodejs.png" />
+    
   <img align="center" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" title='Electron' height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> 
 
@@ -34,7 +36,6 @@
   Database <br><br> -->
   <img align="center" title='MySQL' height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" title='Firebase' height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" title='Firebase' height="30" width="40"src="https://img.icons8.com/color/344/nodejs.png" />
 
 </div>
  
