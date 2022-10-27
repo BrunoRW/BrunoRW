@@ -36,7 +36,7 @@
 <div align='center' ><br>
   Database <br><br> -->
   <img align="center" title='MySQL' height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" title='Next' height="30" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" />
+  <img align="center" title='Next' height="30" width="40"src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
 
 </div>
  
