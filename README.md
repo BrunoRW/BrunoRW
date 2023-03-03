@@ -3,7 +3,7 @@
 - I'm 16. <br>  
 - I started studying over 26 months ago. <br> 
 - I've individual and group projects. <br>   
-- 💻 Dream jobs - FullStack developer and cybersecurity
+- 💻 Dream jobs - FullStack developer 
   
 <div align="center">
   <a href="https://github.com/BrunoRW">
