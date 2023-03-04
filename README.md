@@ -20,7 +20,7 @@
   <img align="center" title='Electron' height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> 
 
   <img align="center" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
-   <br>
+
   <img align="center" height="30"  width="40" style="background: #fff;" background="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" />
   <img align="center" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <!-- </div>
