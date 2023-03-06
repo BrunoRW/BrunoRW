@@ -45,3 +45,5 @@
 Contacts <br><br>
 Email: brunoricardowotzke@gmail.com<br>
 Discord: bw#1675 
+
+<a href="https://learn.microsoft.com/pt-br/users/brunowotzke-6844">Microsoft Learn Account</a>
