@@ -12,7 +12,7 @@
      </a>
 </div>
   
-<div style="display: flex;" align='center' ><br>
+<div style="display: flex;" align='center' ><br> 
   Knowledge <br><br>  
   <img align="center" title='NodeJS' height="30" width="40"src="https://img.icons8.com/color/344/nodejs.png" />
   <img align="center" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
