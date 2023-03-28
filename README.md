@@ -44,7 +44,7 @@
 
 Contacts <br><br>
 Email: brunoricardowotzke@gmail.com<br>
-Discord: bw#1675 
+Discord: bw#1675 <br>
 Phone: (48) 9 9115-6778 
 
 <a href="https://learn.microsoft.com/pt-br/users/brunowotzke-6844">Microsoft Learn Account</a>
