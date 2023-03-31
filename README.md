@@ -1,5 +1,5 @@
 ### Hey, i'm Bruno Ricardo Wotzke! 
-     
+      
 - I'm 16. <br>  
 - I started studying over 2 years ago. <br> 
 - I've individual and group projects. <br>   
