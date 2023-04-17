@@ -2,7 +2,7 @@
         
 - I'm 16. <br>   
 - I started studying over 2 years ago. <br> 
-- I've individual and group projects. <br>   
+- I've individual and group projects. <br>      
 - 💻 Dream jobs - FullStack developer 
   
 <div align="center">
