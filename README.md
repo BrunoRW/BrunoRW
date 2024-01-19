@@ -1,7 +1,7 @@
 ### Hey, i'm Bruno Ricardo Wotzke! 
         
 - I'm 17. <br>   
-- I started studying over 3 years ago. <br> 
+- I started studying over 4 years ago. <br> 
 - I've individual and group projects. <br>      
 - 💻 Dream jobs - FullStack developer 
   
